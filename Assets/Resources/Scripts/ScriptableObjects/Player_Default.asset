@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c767b0cd754b3d4db8f7b589176b7d9, type: 3}
+  m_Name: Player_Default
+  m_EditorClassIdentifier: 
+  actorName: Player
+  attackType: 1
+  description: Players default ship.
+  health: 1
+  speed: 120
+  hitPower: 1
+  actor: {fileID: 1230689459413190, guid: d3e26273d73e36642bf5e1703a597cab, type: 2}
+  actorsBullets: {fileID: 1411348869896190, guid: 8474834baa94df8469758908996d6925,
+    type: 2}
